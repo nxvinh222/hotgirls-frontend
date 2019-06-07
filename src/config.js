@@ -1,3 +1,3 @@
 export default{
-    rootPath: "http://localhost:8008" 
+    rootPath: "https://bishoujo-server.herokuapp.com/" 
 }
